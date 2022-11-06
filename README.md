@@ -1,4 +1,4 @@
-# NewEnglandPatriotsVisualisation
+# New England Patriots Visualisation
 This is a visualisation made in Tableau
 
 
